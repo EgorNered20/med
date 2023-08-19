@@ -1,0 +1,19 @@
+.header_email
+{
+	margin:5px 0 0 0;
+	font-size: 16px;    
+}
+
+.header_email a
+{
+	color: #2d2d2d !important;
+	-webkit-transition: color .3s;
+	-moz-transition: color .3s;
+	transition: color .3s;
+}
+
+.header_email a:hover
+{
+	color: #7ab749 !important;
+}
+
